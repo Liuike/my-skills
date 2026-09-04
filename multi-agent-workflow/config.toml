@@ -1,0 +1,11 @@
+# Merge these tables into the config.toml in your Codex home directory.
+# If either table already exists, add or update its keys instead of creating a
+# duplicate TOML table.
+
+[features]
+multi_agent = true
+
+[agents]
+enabled = true
+default_subagent_model = "gpt-5.6-luna"
+default_subagent_reasoning_effort = "xhigh"
