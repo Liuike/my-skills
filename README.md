@@ -1,6 +1,6 @@
 # Codex workflow and skills
 
-Reusable Codex configuration for engineering and research work:
+My personal Codex AGENT.md and skills:
 
 - `AGENTS.md`: general engineering, research, reproducibility, and W&B guidance.
 - `multi-agent-workflow/`: global orchestration instructions, agent roles, and the Codex configuration fragment.
