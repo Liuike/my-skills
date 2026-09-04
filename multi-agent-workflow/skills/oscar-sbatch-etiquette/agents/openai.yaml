@@ -1,0 +1,7 @@
+interface:
+  display_name: "Oscar sbatch Etiquette"
+  short_description: "Write auditable Oscar Slurm sbatch scripts"
+  default_prompt: "Use $oscar-sbatch-etiquette to create or review an Oscar Slurm sbatch launcher."
+
+policy:
+  allow_implicit_invocation: true
